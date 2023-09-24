@@ -1,0 +1,12 @@
+requests
+python-decouple
+django
+djangorestframework
+drf-nested-routers
+mysqlclient
+redis
+django_redis
+drf-yasg
+bcrypt
+celery
+django-celery-beat
